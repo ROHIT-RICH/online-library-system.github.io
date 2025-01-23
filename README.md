@@ -20,7 +20,7 @@ Ensure you have the following installed on your system:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/online-library-system.git
+   git clone https://github.com/ROHIT-RICH/online-library-system.github.io
    ```
 2. Navigate to the project directory:
    ```bash
@@ -38,7 +38,7 @@ Ensure you have the following installed on your system:
 ### Running the Application
 1. Start the development server:
    ```bash
-   npm start
+   npm start/npm run dev
    ```
    or
    ```bash
@@ -71,11 +71,5 @@ The build files will be located in the `build/` directory.
 - **src/App.js**: Contains the main routes for the application.
 - **src/index.css**: Global styles for the application.
 
-### Contribution
-If you want to contribute:
-1. Fork the repository.
-2. Create a new branch for your feature/bug fix.
-3. Commit your changes and create a pull request.
 
-### License
-This project is licensed under the MIT License.
+                                                      ### ENJOY ###
